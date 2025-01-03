@@ -8,5 +8,4 @@ This repository contains code for my voluntary project "Intelligent Trading Bot"
 - `Trading_Agent/`: Training Deep Reiforcement Learning Bot using Proximal Policy Optimization 
 
 ## 
-
-![alt text]([https://github.com/arminnv/Intelligent-Trading-Bot/blob/ebb6f8641e4dcff40ad76de5682c7ede6abcafad/auto_trader/trading_bot.jpg]?raw=true)
+![alt text](https://github.com/arminnv/Intelligent-Trading-Bot/blob/ebb6f8641e4dcff40ad76de5682c7ede6abcafad/auto_trader/trading_bot.jpg?raw=true)
