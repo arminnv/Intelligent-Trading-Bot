@@ -7,4 +7,6 @@ This repository contains code for my voluntary project "Intelligent Trading Bot"
 - `auto_trader/`: Bot APIs, pipelines, strategies, and user interfaces
 - `Trading_Agent/`: Training Deep Reiforcement Learning Bot using Proximal Policy Optimization 
 
+## 
 
+![alt text](https://github.com/arminnv/Atari-Breakout/blob/2310e00b8fde6e619e4636a2a8097d737151af0f/Gameplay.jpg?raw=true)
