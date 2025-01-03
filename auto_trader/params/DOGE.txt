@@ -1,0 +1,14 @@
+{
+ "max_profit": 0,
+ "max_profit_win": 0,
+ "max_profit_ema1": 0,
+ "max_profit_ema2": 0,
+ "max_profit_trades": 0,
+ "max_profit_ppt": 0,
+ "max_win": 0.48,
+ "max_win_profit": -0.49778296198684413,
+ "max_win_ema1": 70,
+ "max_win_ema2": 50,
+ "max_win_trades": 25,
+ "max_win_ppt": -0.027172905657408486
+}
