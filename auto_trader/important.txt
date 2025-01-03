@@ -1,0 +1,77 @@
+github.io
+000webhost
+netlify
+firebase ×
+hostinger
+googiehost
+infinityfree
+heroku
+
+heroku login
+heroku create
+git init
+git add .
+git commit -m "first commit"
+heroku git:remote -a trading-bot-51917
+git push heroku master
+
+heroku plugins:install heroku-repo
+heroku repo:reset --app trading-bot-51917
+
+git init
+heroku repo:reset --app trading-bot-51917
+
+
+heroku git:remote -a trading-bot-519171
+git push heroku master
+
+git init
+git add .
+git commit -m "first commit"
+git remote add origin2 https://github.com/arminnv/cbot.git
+
+git push -u origin main
+git remote add origin2 https://github.com/arminnv/myTAlib.git
+git remote set-url origin https://github.com/arminnv/cbot.git
+
+git init
+git add .
+git commit -m "first commit"
+heroku git:remote -a trading-bot-519171
+git push heroku master
+
+
+
+logout -> heroku git:remote -a trading-bot-519171
+
+heroku logs
+heroku restart web.1
+heroku restart -a trading-bot-519171
+
+python-telegram-bot==12.7
+pandas>=1.2.2
+requests>=2.26.0
+matplotlib>=3.4.2
+mplfinance>=0.12.7a17
+
+
+trading-bot-53937
+
+heroku ps -a trading-bot-519171
+
+heroku login
+heroku repo:reset --app trading-bot-519171
+
+https://keepalive365.herokuapp.com/hello
+
+https://trading-bot-519171.herokuapp.com/hello
+
+$ git clone --bare https://github.com/exampleuser/old-repository.git
+Mirror-push to the new repository.
+$ cd old-repository.git
+$ git push --mirror https://github.com/exampleuser/new-repository.git
+Remove the temporary local repository you created earlier.
+$ cd ..
+$ rm -rf old-repository.git
+
+
